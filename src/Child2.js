@@ -16,5 +16,4 @@ const Child2 = () => {
         </div>
     )
 }
-
 export default Child2
